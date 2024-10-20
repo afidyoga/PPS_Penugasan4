@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="design_default_color_primary">#6200EE</color>
+    <color name="design_default_color_primary_dark">#3700B3</color>
+    <color name="design_default_color_accent">#03DAC5</color>
+
+    <color name="color_background">#F4F6FF</color>
+    <color name="black">#4A4947</color>
+    <color name="hijau">#347928</color>
+    <color name="merah">#B8001F</color>
+    <color name="warna1">#C1D8C3</color>
+    <color name="warna2">#6A9C89</color>
+    <color name="warna3">#D5ED9F</color>
+    <color name="warna4">#FFFBE6</color>
+    <color name="warna5">#F8EDED</color>
+</resources>

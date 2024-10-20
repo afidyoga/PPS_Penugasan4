@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">PPS_Penugasan4</string>
+
+<string-array name="kelas">
+    <item>-- Pilih --</item>
+    <item>MOBILE 1</item>
+    <item>MOBILE 2</item>
+    <item>MOBILE 3</item>
+    <item>MOBILE 4</item>
+</string-array>
+</resources>
