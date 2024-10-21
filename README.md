@@ -1,4 +1,6 @@
 # PPS Penugasan 4 Teori
+untuk pratikum penugasan 4 ada di branches "pratikum"
+
 Running Apps
 
 Light
